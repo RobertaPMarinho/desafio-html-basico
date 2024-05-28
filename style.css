@@ -1,0 +1,20 @@
+.geral {
+  padding: 10px;
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.moda-cabecalho {
+  background-color: #bb86fc;
+  color: #fff;
+}
+
+.casa-cabecalho {
+  background-color: #00C4B4;
+  color:#fff
+}
+
+.produto-moda, .produto-casa {
+  background-color: #424250;
+  color: #fff;
+}
